@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitbuh-473
 - 👀 I’m interested in scripting and web developing
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning HTML,CSS, and Js
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me: N/A
 - 😄 Pronouns: He / Him
